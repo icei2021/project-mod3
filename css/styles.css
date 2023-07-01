@@ -30,3 +30,13 @@ generales
 .carousel{
     margin-bottom: 20px;
 }
+
+/*Banner*/
+.banner{
+    background-color: #343a40;
+    width: 100%;
+    background-image: linear-gradient(to left, rgba(0,0,0,.7), rgba(0,0,0,.7)), url(../img/wolves_banner.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
