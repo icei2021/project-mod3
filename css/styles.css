@@ -1,0 +1,13 @@
+:root{
+    --color-primary:#2EB872;
+    --color-primary-hover:#41d58b;
+    --color-light:#f8f9fa;
+    --color-dark:#343a40;
+    --color-black:#192021;
+}
+/*
+generales
+*/
+.subtitle{
+    color: var(--color-primary);
+}
