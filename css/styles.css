@@ -53,3 +53,11 @@ generales
     background-size:cover;
     background-position: center;
 }
+
+/*Footer*/
+.footer-header{
+    background-color: var(--color-dark);
+}
+.footer-bottom{
+    background-color: var(--color-black);
+}
