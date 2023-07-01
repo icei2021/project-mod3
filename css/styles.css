@@ -45,3 +45,11 @@ generales
 .green-container{
     background-color: var(--color-primary);
 }
+
+/*Contact Container*/
+.contact-container{
+    width: 100%;
+    background-image: linear-gradient(to left,rgba(0,0,0,.7), rgba(0,0,0,.7)), url(../img/tiger_banner-min.jpg);
+    background-size:cover;
+    background-position: center;
+}
