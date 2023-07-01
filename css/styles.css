@@ -5,11 +5,20 @@
     --color-dark:#343a40;
     --color-black:#192021;
 }
-/*
-generales
-*/
+/*generales*/
 .subtitle{
     color: var(--color-primary);
+}
+.btn-custom{
+    background-color: var(--color-primary);
+    color:var(--color-light) ;
+    transition: all .5s;
+}
+
+
+.btn-custom:hover{
+    background-color: var(--color-primary-hover);
+    color: var(--color-light);
 }
 
 /*Header*/
