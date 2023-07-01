@@ -40,3 +40,8 @@ generales
     background-position: center;
     background-attachment: fixed;
 }
+
+/*Green Container*/
+.green-container{
+    background-color: var(--color-primary);
+}
